@@ -1,4 +1,7 @@
 # Frogger
-Pre-Engineering 11 Final Project
 
-A game that is based off of the arcade game of the same name
+![Frogger](https://github.com/elwincheng/Frogger/blob/master/imgs/Final_product.gif)
+
+A game based on the arcade game of the same name
+
+Programmed with Python and PyGame Library
